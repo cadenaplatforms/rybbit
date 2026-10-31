@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@better-auth/stripe": "1.2.7",
+    "@better-auth/stripe": "1.7.14",
     "@hookform/resolvers": "5.0.1",
     "@nivo/bar": "0.96.0",
     "@nivo/calendar": "0.96.0",
@@ -40,7 +40,7 @@
     "@types/country-flag-icons": "1.2.2",
     "@types/three": "0.176.0",
     "@uidotdev/usehooks": "2.4.1",
-    "better-auth": "1.2.7",
+    "better-auth": "1.7.14",
     "boring-avatars": "1.11.2",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
@@ -76,7 +76,7 @@
     "tailwind-merge": "2.6.0",
     "tailwindcss-animate": "1.0.7",
     "three": "0.176.0",
-    "zod": "3.24.4",
+    "zod": "4.6.7",
     "zustand": "5.0.4"
   },
   "devDependencies": {
